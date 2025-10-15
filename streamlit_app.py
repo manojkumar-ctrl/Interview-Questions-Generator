@@ -98,8 +98,8 @@ def build_pdf(results: Dict[str, List[Dict[str, str]]]) -> bytes:
 
 
 def main():
-    st.set_page_config(page_title="Interview Question Creator", page_icon="🧠", layout="wide")
-    st.title("🧠 Interview Question Creator")
+    st.set_page_config(page_title="Interview Question Creator", layout="wide")
+    st.title(" Interview Question Creator")
     st.write("Upload one or more PDF files, then generate interview questions by difficulty.")
 
     with st.sidebar:

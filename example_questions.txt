@@ -1,0 +1,31 @@
+Generated Interview Questions
+==================================================
+
+Question 1:
+Difficulty: easy
+Type: conceptual
+Question: Why?
+Source: Artificial Intelligence 22CS5PCAIN Course Instructor Dr. Umadevi V Department of CSE, BMSCE 2 October 2024 BMSCE 1 Unit-1 Unit-1: Definition, Agents: Agents and environment, Concept of Rationality, Th...
+------------------------------
+
+Question 2:
+Difficulty: easy
+Type: conceptual
+Question: How do I do this?
+Source: nt. Example: Card games  In unknown environment, the agent needs to learn how it works in order to perform an action. Example: New Video games 2 October 2024 BMSCE 59 Examples of Task Environment Task...
+------------------------------
+
+Question 3:
+Difficulty: hard
+Type: analytical
+Question: Is the answer?
+Source: costs: One unit per action 2 October 2024 BMSCE 149 Problem Example: Toy Problem: Vacuum world States:  The state is determined by both the agent location and the dirt locations. The agent is in one o...
+------------------------------
+
+Question 4:
+Difficulty: hard
+Type: analytical
+Question: How can you prove this?
+Source: r function in this representation. (d) What is the cost function in your successor function? (e) What is the total number of reachable states? Note: If at any time the Cannibals outnumber the Missiona...
+------------------------------
+

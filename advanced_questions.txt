@@ -1,0 +1,59 @@
+Generated Interview Questions
+==================================================
+
+Question 1:
+Difficulty: medium
+Type: analytical
+Question: How do I define a "sensor" (or an action) in a situation?
+Source: costs: One unit per action 2 October 2024 BMSCE 149 Problem Example: Toy Problem: Vacuum world States:  The state is determined by both the agent location and the dirt locations. The agent is in one o...
+------------------------------
+
+Question 2:
+Difficulty: medium
+Type: conceptual
+Question: How do you define 'human'?
+Source: tober 2024 BMSCE 13 Question To evaluate whether machine is acting humanly. is used? Turing test Cognitive modelling Laws of thoughts All of these 2 October 2024 BMSCE 14 Question To evaluate whether ...
+------------------------------
+
+Question 3:
+Difficulty: medium
+Type: practical
+Question: A "real world" mission is a world in which all humans in a given location interact with each other.
+Source: r function in this representation. (d) What is the cost function in your successor function? (e) What is the total number of reachable states? Note: If at any time the Cannibals outnumber the Missiona...
+------------------------------
+
+Question 4:
+Difficulty: medium
+Type: practical
+Question: Does the solution to a problem be a single step, a very complex task or a very complex process?
+Source: location  B then return Left Simple reflex agents How they work: They operate in a continuous loop of perception and action. Sensors capture information about the environment This information is then ...
+------------------------------
+
+Question 5:
+Difficulty: medium
+Type: analytical
+Question: Are you using "simple math"? Answer: Yes. The first answer is to take a second question, and then to use a third.
+Source: a queen to any empty square. Transition model: Returns the board with a queen added to the specified square. Goal test: 8 queens are on the board, none attacked. 2 October 2024 BMSCE 164 Question A 3-...
+------------------------------
+
+Question 6:
+Difficulty: medium
+Type: conceptual
+Question: What is a "task" and how can it be defined?
+Source: eed it worry about the passage of time. Dynamic environments, on the other hand, are continuously asking the agent what it wants to do; if it hasnt decided yet, that counts as deciding to do nothing. ...
+------------------------------
+
+Question 7:
+Difficulty: medium
+Type: conceptual
+Question: Is there anything I can do to help solve this problem? Answer: Yes, the answer is yes, and yes, you
+Source:  6. Location of Wumpus, gold and 3 pits can be anywhere, except in Room1, 1. Actuators: Devices that allow the agent to perform the following actions in the environment. Release 2 October 2024 BMSCE 6...
+------------------------------
+
+Question 8:
+Difficulty: medium
+Type: conceptual
+Question: Is a person more important than the object of his thought?
+Source: gly; it ignores the rest of history; hence it follows the Condition-action rule. 2 October 2024 BMSCE 90 Question Which of these types of intelligent agents relies only on current conditions, making n...
+------------------------------
+
